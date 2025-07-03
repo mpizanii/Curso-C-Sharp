@@ -1,0 +1,15 @@
+C:\Users\mpiza\OneDrive\Documents\Projetos\Curso C#\Curso-C-Sharp\Sistema-Bancário-C#\bin\Debug\net9.0\Sistema-Bancário-C#.exe
+C:\Users\mpiza\OneDrive\Documents\Projetos\Curso C#\Curso-C-Sharp\Sistema-Bancário-C#\bin\Debug\net9.0\Sistema-Bancário-C#.deps.json
+C:\Users\mpiza\OneDrive\Documents\Projetos\Curso C#\Curso-C-Sharp\Sistema-Bancário-C#\bin\Debug\net9.0\Sistema-Bancário-C#.runtimeconfig.json
+C:\Users\mpiza\OneDrive\Documents\Projetos\Curso C#\Curso-C-Sharp\Sistema-Bancário-C#\bin\Debug\net9.0\Sistema-Bancário-C#.dll
+C:\Users\mpiza\OneDrive\Documents\Projetos\Curso C#\Curso-C-Sharp\Sistema-Bancário-C#\bin\Debug\net9.0\Sistema-Bancário-C#.pdb
+C:\Users\mpiza\OneDrive\Documents\Projetos\Curso C#\Curso-C-Sharp\Sistema-Bancário-C#\obj\Debug\net9.0\Sistema-Bancário-C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpiza\OneDrive\Documents\Projetos\Curso C#\Curso-C-Sharp\Sistema-Bancário-C#\obj\Debug\net9.0\Sistema-Bancário-C#.AssemblyInfoInputs.cache
+C:\Users\mpiza\OneDrive\Documents\Projetos\Curso C#\Curso-C-Sharp\Sistema-Bancário-C#\obj\Debug\net9.0\Sistema-Bancário-C#.AssemblyInfo.cs
+C:\Users\mpiza\OneDrive\Documents\Projetos\Curso C#\Curso-C-Sharp\Sistema-Bancário-C#\obj\Debug\net9.0\Sistema-Bancário-C#.csproj.CoreCompileInputs.cache
+C:\Users\mpiza\OneDrive\Documents\Projetos\Curso C#\Curso-C-Sharp\Sistema-Bancário-C#\obj\Debug\net9.0\Sistema-Bancário-C#.sourcelink.json
+C:\Users\mpiza\OneDrive\Documents\Projetos\Curso C#\Curso-C-Sharp\Sistema-Bancário-C#\obj\Debug\net9.0\Sistema-Bancário-C#.dll
+C:\Users\mpiza\OneDrive\Documents\Projetos\Curso C#\Curso-C-Sharp\Sistema-Bancário-C#\obj\Debug\net9.0\refint\Sistema-Bancário-C#.dll
+C:\Users\mpiza\OneDrive\Documents\Projetos\Curso C#\Curso-C-Sharp\Sistema-Bancário-C#\obj\Debug\net9.0\Sistema-Bancário-C#.pdb
+C:\Users\mpiza\OneDrive\Documents\Projetos\Curso C#\Curso-C-Sharp\Sistema-Bancário-C#\obj\Debug\net9.0\Sistema-Bancário-C#.genruntimeconfig.cache
+C:\Users\mpiza\OneDrive\Documents\Projetos\Curso C#\Curso-C-Sharp\Sistema-Bancário-C#\obj\Debug\net9.0\ref\Sistema-Bancário-C#.dll
