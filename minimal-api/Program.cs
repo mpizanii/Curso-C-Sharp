@@ -17,6 +17,9 @@ builder.Services.AddDbContext<DbContexto>(options =>
     );
 });
 
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
+
 var app = builder.Build();
 
 app.MapGet("/", () => "Hello World!");
@@ -28,5 +31,8 @@ app.MapPost("/login", ([FromBody] LoginDTO loginDTO, IAdministradorServico admin
     else
         return Results.Unauthorized();
 });
+
+app.UseSwagger();
+app.UseSwaggerUI();
 
 app.Run();
