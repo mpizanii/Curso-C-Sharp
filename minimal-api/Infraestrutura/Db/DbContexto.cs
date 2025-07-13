@@ -27,6 +27,7 @@ namespace minimal_api.Infraestrutura.Db
         }
 
         public DbSet<Administrador> Administradores { get; set; } = default!;
+        public DbSet<Veiculo> Veiculos { get; set; } = default!;
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
