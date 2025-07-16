@@ -6,7 +6,7 @@ namespace Test.Domain.Entidades;
 public class AdministradorTest
 {
     [TestMethod]
-    public void TestarGetSetPropriedades()
+    public void TestarGetSetPropriedadesAdm()
     {
         var adm = new Administrador();
 
@@ -19,5 +19,19 @@ public class AdministradorTest
         Assert.AreEqual("teste@teste.com", adm.Email);
         Assert.AreEqual("teste", adm.Senha);
         Assert.AreEqual("Adm", adm.Perfil);
+    }
+    public void TestarGetSetPropriedadesVeiculos()
+    {
+        var veiculo = new Veiculo();
+
+        veiculo.Id = 1;
+        veiculo.Nome = "Onix";
+        veiculo.Marca = "Chevrolet";
+        veiculo.Ano = 2025;
+
+        Assert.AreEqual(1, veiculo.Id);
+        Assert.AreEqual("Onix", veiculo.Nome);
+        Assert.AreEqual("Chevrolet", veiculo.Marca);
+        Assert.AreEqual(2025, veiculo.Ano);
     }
 }
