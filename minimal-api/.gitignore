@@ -55,4 +55,5 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+/Test/minimal_api.dump.sql
 # End of https://www.toptal.com/developers/gitignore/api/windows,dotnetcore,visualstudiocode
